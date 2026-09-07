@@ -43,4 +43,4 @@ The analysis uses the UCI Online Retail transactional dataset containing real-wo
 
 ## Project File
 
-`Customer Segmentation & Churn Analysis.ipynb`
+[Customer Segmentation & Churn Analysis.ipynb](Customer%20Segmentation%20%26%20Churn%20Analysis.ipynb)
